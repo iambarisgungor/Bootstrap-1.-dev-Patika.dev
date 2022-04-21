@@ -1,0 +1,201 @@
+*{ margin: 0%;
+    padding: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{background-image: url(img/resim1.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    
+}
+
+.navbar{height: 8vh;
+        width: 50%;
+        background-color: #1b18180a;
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        justify-content: space-around;
+
+
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    transition: 0.7s;
+    -webkit-transition: 0.7s;
+    -moz-transition: 0.7s;
+    -ms-transition: 0.7s;
+    -o-transition: 0.7s;
+}
+
+h2{ font-size: 45px;
+    color: whitesmoke;
+    cursor: pointer;
+    transition: 0.9s;
+    -webkit-transition: 0.9s;
+    -moz-transition: 0.9s;
+    -ms-transition: 0.9s;
+    -o-transition: 0.9s;
+}
+
+a:hover{color:red}
+
+h2:hover{color: rgb(255, 0, 0);}
+
+.b1:hover{color: red;}
+
+.b2:hover{color: red;}
+
+.b3:hover{color: red;}
+
+.b4:hover{color: red;}
+
+.b5:hover{color: red;}
+
+.b6:hover{color: red;}
+
+.b7:hover{color: red;}
+
+.b8:hover{color: red;}
+
+.yazırengi{color: whitesmoke;
+    padding: 11%;
+}
+
+.kutu{padding: 30px 450px;
+
+
+}
+
+.p1{height: 600px;
+    margin-left: 54%;
+    width:  450px;
+    margin-top: -3%;
+}
+
+.p2{height: 600px;
+    width:  450px;
+margin-left: 23%;
+margin-top: -36%;
+}
+
+.g2{height: 600px;
+    width:  450px;
+margin-left: 54%;
+margin-top: 3%;}
+
+.g3{height: 600px;
+    width:  450px;
+    margin-left:23%;
+    margin-top: -36%;}
+
+.d1{height: 600px;
+    width:  450px;
+margin-left: 54%;
+margin-top: 3%;}
+
+.d2{height: 600px;
+    width:  450px;
+    margin-left:23%;
+    margin-top: -36%;}
+
+.k1{height: 600px;
+    width:  450px;
+margin-left: 54%;
+margin-top: 3%;}    
+
+.k2{height: 600px;
+    width:  450px;
+    margin-left:23%;
+    margin-top: -36%;}
+
+    .b1{
+   background-color: unset;
+   color: whitesmoke;
+   cursor: pointer;
+   transition: 0.8s;
+   border-color:transparent;
+   margin-left: 520px;
+   margin-top: 5px;
+   width: 80px;
+   height: 25px;    
+}
+
+.b2{
+    background-color: unset;
+    color: whitesmoke;
+    cursor: pointer;
+    transition: 0.8s;
+    border-color:transparent;
+    margin-left: 227px;
+    margin-top: -45px;
+    width: 80px;
+    height: 25px; }   
+
+    .b3{
+        background-color: unset;
+        color: whitesmoke;
+        cursor: pointer;
+        transition: 0.8s;
+        border-color:transparent;
+        margin-left: 520px;
+        margin-top: 5px;
+        width: 80px;
+        height: 25px; }
+
+        .b4{
+            background-color: unset;
+            color: whitesmoke;
+            cursor: pointer;
+            transition: 0.8s;
+            border-color:transparent;
+            margin-left: 227px;
+            margin-top: -45px;
+            width: 80px;
+            height: 25px; }
+
+            .b5{
+                background-color: unset;
+                color: whitesmoke;
+                cursor: pointer;
+                transition: 0.8s;
+                border-color:transparent;
+                margin-left: 520px;
+                margin-top: 2px;
+                width: 80px;
+                height: 25px; }
+                
+                .b6{
+                    background-color: unset;
+                    color: whitesmoke;
+                    cursor: pointer;
+                    transition: 0.8s;
+                    border-color:transparent;
+                    margin-left: 227px;
+                    margin-top: -45px;
+                    width: 80px;
+                    height: 25px; }
+
+                    .b7{
+                        background-color: unset;
+                     color:whitesmoke;
+                        cursor: pointer;
+                        transition: 0.8s;
+                        border-color:transparent;
+                        margin-left: 227px;
+                        margin-top: 1px;
+                        width: 80px;
+                        height: 25px; }
+
+                        .b8{
+                            background-color: unset;
+                            color: rgb(255, 255, 255);
+                            cursor: pointer;
+                            transition: 0.8s;
+                            border-color:transparent;
+                            margin-left: 520px;
+                            margin-top: -45px;
+                            width: 80px;
+                            height: 25px; }
